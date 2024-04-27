@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Marsel, an undergraduate student in information techonology major at Gadjah Mada University.
+I'm interested in data science and logical programming. While I have some degree of experience in both field, I still think that I don't know much and looking for more knowledges and experiences.
 <!--
 **ethankuning/ethankuning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
